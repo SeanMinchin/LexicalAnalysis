@@ -1,0 +1,4 @@
+FOR (((i, 5, ++))
+BEGIN
+mul = mul * k;
+END

@@ -1,0 +1,5 @@
+FOR (i, 10, ++)
+BEGIN
+  FOR (j, 10, ++)
+  sum=sum + i + j;
+END
